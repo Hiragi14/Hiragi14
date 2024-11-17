@@ -1,5 +1,5 @@
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=Hiragi14&show_icons=true&locale=en&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiragi14&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--

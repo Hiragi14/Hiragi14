@@ -1,5 +1,4 @@
-大学4年生。
-AI関係を勉強中。
+
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiragi14&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
